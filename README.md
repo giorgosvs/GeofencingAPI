@@ -8,7 +8,7 @@ This is an Android Java application using google's geofencing API. It records re
 <img src="https://github.com/user-attachments/assets/42b27dc3-c3e8-4669-b3ab-4bae4e72fcbc" width="200" />
 <img src="https://github.com/user-attachments/assets/026478da-4f61-4b23-b780-d3c8b7c34567" width="200" />
 <img src="https://github.com/user-attachments/assets/b554ab45-664e-4871-a8fb-0cb2a8b6238c" width="200" />
-<img src="https://github.com/user-attachments/assets/30ffad0f-3448-418b-a990-7744546386cf" width="200" />
+
 <img src="https://github.com/user-attachments/assets/5b18bbb4-4757-4ee0-8066-d5d116a4ccb8" width="200" />
 <img src="https://github.com/user-attachments/assets/30ffad0f-3448-418b-a990-7744546386cf" width="200" />
 
