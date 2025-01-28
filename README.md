@@ -2,7 +2,7 @@
 
 ## Overview
 This is an Android Java application using google's geofencing API. It records real-time entry and exit of a single or multiple geofences and stores records in transitions' database using Android's Content Provider.
-Geofences can be added onMapLongClick()
+
 
 
 ## Screenshots
@@ -18,9 +18,9 @@ Geofences can be added onMapLongClick()
 
 
 ## Usage
-1. **Define geofences** on the map.
+1. **Define geofences** on the map. Geofences can be added onMapLongClick().
 2. **Start monitoring** for geofence transitions.
-3. View logged events for entry and exit transitions.
+3. View logged events for entry and exit transitions in Device Activity.
 4. Stop monitoring and drop tables for erasing history.
 
 ---
