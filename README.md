@@ -2,12 +2,12 @@
 
 ## Overview
 This is an Android Java application using google's geofencing API. It records real-time entry and exit of a single or multiple geofences and stores records in transitions' database using Android's Content Provider.
-Geofences are added by users of the application with a fixed radius of 100m.
+Geofences can be added onMapLongClick()
 
 
 ## Screenshots
 
-| <img src="https://github.com/user-attachments/assets/e66d80b4-a851-4711-95d0-8dd4770b3777" width="200" />
+<img src="https://github.com/user-attachments/assets/e66d80b4-a851-4711-95d0-8dd4770b3777" width="200" />
 <img src="https://github.com/user-attachments/assets/231db136-a937-4bb1-b324-ac4f444825f8" width="200" />
 <img src="https://github.com/user-attachments/assets/42b27dc3-c3e8-4669-b3ab-4bae4e72fcbc" width="200" />
 <img src="https://github.com/user-attachments/assets/026478da-4f61-4b23-b780-d3c8b7c34567" width="200" />
@@ -26,6 +26,6 @@ Geofences are added by users of the application with a fixed radius of 100m.
 ---
 
 ## Future Enhancements
-- Foreground geofence monitoring using Service class.
+- Foreground geofence monitoring using Android Services.
 - Advanced notifications for geofence events.
 - Improved UI for geofence management.
